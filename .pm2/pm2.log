@@ -1,0 +1,140 @@
+2022-02-15T17:42:38: PM2 log: ===============================================================================
+2022-02-15T17:42:38: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2022-02-15T17:42:38: PM2 log: Time                 : Tue Feb 15 2022 17:42:38 GMT+0000 (Coordinated Universal Time)
+2022-02-15T17:42:38: PM2 log: PM2 version          : 5.1.2
+2022-02-15T17:42:38: PM2 log: Node.js version      : 12.22.10
+2022-02-15T17:42:38: PM2 log: Current arch         : x64
+2022-02-15T17:42:38: PM2 log: PM2 home             : /root/.pm2
+2022-02-15T17:42:38: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2022-02-15T17:42:38: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2022-02-15T17:42:38: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2022-02-15T17:42:38: PM2 log: Application log path : /root/.pm2/logs
+2022-02-15T17:42:38: PM2 log: Worker Interval      : 30000
+2022-02-15T17:42:38: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2022-02-15T17:42:38: PM2 log: Concurrent actions   : 2
+2022-02-15T17:42:38: PM2 log: SIGTERM timeout      : 1600
+2022-02-15T17:42:38: PM2 log: ===============================================================================
+2022-02-15T17:42:38: PM2 log: App [server:0] starting in -fork mode-
+2022-02-15T17:42:38: PM2 log: App [server:0] online
+2022-02-17T17:42:39: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-02-17T17:42:39: PM2 log: [PM2] Upgrade to version 5.2.0
+2022-02-18T17:42:39: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-02-18T17:42:39: PM2 log: [PM2] Upgrade to version 5.2.0
+2022-02-19T17:42:39: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-02-19T17:42:39: PM2 log: [PM2] Upgrade to version 5.2.0
+2022-02-19T18:53:45: PM2 log: Stopping app:server id:0
+2022-02-19T18:53:45: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-19T18:53:46: PM2 log: pid=26567 msg=process killed
+2022-02-19T18:54:02: PM2 log: App [server:0] starting in -fork mode-
+2022-02-19T18:54:02: PM2 log: App [server:0] online
+2022-02-19T18:58:32: PM2 log: Stopping app:server id:0
+2022-02-19T18:58:32: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-19T18:58:32: PM2 log: pid=11458 msg=process killed
+2022-02-19T18:58:39: PM2 log: App [server:0] starting in -fork mode-
+2022-02-19T18:58:39: PM2 log: App [server:0] online
+2022-02-20T03:20:08: PM2 log: Stopping app:server id:0
+2022-02-20T03:20:08: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-20T03:20:08: PM2 log: pid=11507 msg=process killed
+2022-02-20T03:20:14: PM2 log: App [server:0] starting in -fork mode-
+2022-02-20T03:20:14: PM2 log: App [server:0] online
+2022-02-20T03:24:30: PM2 log: Stopping app:server id:0
+2022-02-20T03:24:30: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-20T03:24:30: PM2 log: pid=13516 msg=process killed
+2022-02-20T05:18:01: PM2 log: App [server:0] starting in -fork mode-
+2022-02-20T05:18:01: PM2 log: App [server:0] online
+2022-02-20T05:34:30: PM2 log: Stopping app:server id:0
+2022-02-20T05:34:31: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-20T05:34:31: PM2 log: pid=14371 msg=process killed
+2022-02-20T16:44:21: PM2 log: App [server:0] starting in -fork mode-
+2022-02-20T16:44:21: PM2 log: App [server:0] online
+2022-02-20T17:42:39: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-02-20T17:42:39: PM2 log: [PM2] Upgrade to version 5.2.0
+2022-02-20T19:05:18: PM2 log: Stopping app:server id:0
+2022-02-20T19:05:18: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-20T19:05:18: PM2 log: pid=17241 msg=process killed
+2022-02-20T19:05:23: PM2 log: App [server:0] starting in -fork mode-
+2022-02-20T19:05:23: PM2 log: App [server:0] online
+2022-02-20T19:15:26: PM2 log: Stopping app:server id:0
+2022-02-20T19:15:26: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-20T19:15:26: PM2 log: pid=17752 msg=process killed
+2022-02-20T19:15:30: PM2 log: App [server:0] starting in -fork mode-
+2022-02-20T19:15:30: PM2 log: App [server:0] online
+2022-02-20T19:17:15: PM2 log: Stopping app:server id:0
+2022-02-20T19:17:15: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-20T19:17:15: PM2 log: pid=17801 msg=process killed
+2022-02-20T19:18:14: PM2 log: App [server:0] starting in -fork mode-
+2022-02-20T19:18:14: PM2 log: App [server:0] online
+2022-02-20T19:20:36: PM2 log: Stopping app:server id:0
+2022-02-20T19:20:36: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-20T19:20:36: PM2 log: pid=17837 msg=process killed
+2022-02-20T19:20:43: PM2 log: App [server:0] starting in -fork mode-
+2022-02-20T19:20:43: PM2 log: App [server:0] online
+2022-02-20T19:54:34: PM2 log: Stopping app:server id:0
+2022-02-20T19:54:34: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-20T19:54:34: PM2 log: pid=17876 msg=process killed
+2022-02-20T19:54:39: PM2 log: App [server:0] starting in -fork mode-
+2022-02-20T19:54:39: PM2 log: App [server:0] online
+2022-02-20T19:55:19: PM2 log: Stopping app:server id:0
+2022-02-20T19:55:19: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-20T19:55:19: PM2 log: pid=17973 msg=process killed
+2022-02-20T19:59:20: PM2 log: App [server:0] starting in -fork mode-
+2022-02-20T19:59:20: PM2 log: App [server:0] online
+2022-02-20T20:07:07: PM2 log: Stopping app:server id:0
+2022-02-20T20:07:07: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-20T20:07:08: PM2 log: pid=18019 msg=process killed
+2022-02-20T20:07:12: PM2 log: App [server:0] starting in -fork mode-
+2022-02-20T20:07:12: PM2 log: App [server:0] online
+2022-02-20T20:09:06: PM2 log: Stopping app:server id:0
+2022-02-20T20:09:06: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-20T20:09:06: PM2 log: pid=18119 msg=process killed
+2022-02-20T20:43:44: PM2 log: App [server:0] starting in -fork mode-
+2022-02-20T20:43:44: PM2 log: App [server:0] online
+2022-02-20T21:01:16: PM2 log: Stopping app:server id:0
+2022-02-20T21:01:16: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-20T21:01:16: PM2 log: pid=18231 msg=process killed
+2022-02-20T21:01:21: PM2 log: App [server:0] starting in -fork mode-
+2022-02-20T21:01:21: PM2 log: App [server:0] online
+2022-02-20T21:36:08: PM2 log: Stopping app:server id:0
+2022-02-20T21:36:08: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-20T21:36:08: PM2 log: pid=18343 msg=process killed
+2022-02-20T21:36:19: PM2 log: App [server:0] starting in -fork mode-
+2022-02-20T21:36:19: PM2 log: App [server:0] online
+2022-02-20T21:39:34: PM2 log: Stopping app:server id:0
+2022-02-20T21:39:34: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-20T21:39:34: PM2 log: pid=18522 msg=process killed
+2022-02-20T21:39:40: PM2 log: App [server:0] starting in -fork mode-
+2022-02-20T21:39:40: PM2 log: App [server:0] online
+2022-02-21T04:33:45: PM2 log: Stopping app:server id:0
+2022-02-21T04:33:45: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-21T04:33:45: PM2 log: pid=18563 msg=process killed
+2022-02-21T04:44:40: PM2 log: App [server:0] starting in -fork mode-
+2022-02-21T04:44:40: PM2 log: App [server:0] online
+2022-02-21T04:50:21: PM2 log: Stopping app:server id:0
+2022-02-21T04:50:21: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-21T04:50:21: PM2 log: pid=20414 msg=process killed
+2022-02-21T04:50:36: PM2 log: App [server:0] starting in -fork mode-
+2022-02-21T04:50:36: PM2 log: App [server:0] online
+2022-02-21T05:03:39: PM2 log: Stopping app:server id:0
+2022-02-21T05:03:39: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-21T05:03:39: PM2 log: pid=20516 msg=process killed
+2022-02-21T05:03:46: PM2 log: App [server:0] starting in -fork mode-
+2022-02-21T05:03:46: PM2 log: App [server:0] online
+2022-02-21T05:06:55: PM2 log: Stopping app:server id:0
+2022-02-21T05:06:55: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-21T05:06:55: PM2 log: pid=20632 msg=process killed
+2022-02-21T05:07:05: PM2 log: App [server:0] starting in -fork mode-
+2022-02-21T05:07:05: PM2 log: App [server:0] online
+2022-02-21T17:42:39: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-02-21T17:42:39: PM2 log: [PM2] Upgrade to version 5.2.0
+2022-02-22T04:56:57: PM2 log: Stopping app:server id:0
+2022-02-22T04:56:57: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-22T04:56:57: PM2 log: pid=20695 msg=process killed
+2022-02-22T04:57:03: PM2 log: App [server:0] starting in -fork mode-
+2022-02-22T04:57:03: PM2 log: App [server:0] online
+2022-02-22T05:00:24: PM2 log: Stopping app:server id:0
+2022-02-22T05:00:24: PM2 log: App [server:0] exited with code [0] via signal [SIGINT]
+2022-02-22T05:00:24: PM2 log: pid=25525 msg=process killed
+2022-02-22T05:00:30: PM2 log: App [server:0] starting in -fork mode-
+2022-02-22T05:00:30: PM2 log: App [server:0] online
+2022-02-22T17:42:39: PM2 log: [PM2] This PM2 is not UP TO DATE
+2022-02-22T17:42:39: PM2 log: [PM2] Upgrade to version 5.2.0

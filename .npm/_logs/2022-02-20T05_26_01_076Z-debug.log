@@ -1,0 +1,30 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'i', 'swagger-jsdocs' ]
+2 info using npm@6.14.16
+3 info using node@v12.22.10
+4 verbose npm-session 6bddbbf27c74e8c4
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 http fetch GET 404 https://registry.npmjs.org/swagger-jsdocs 410ms
+8 http fetch GET 404 https://registry.npmjs.org/swagger-jsdocs 378ms
+9 silly fetchPackageMetaData error for swagger-jsdocs@latest 404 Not Found - GET https://registry.npmjs.org/swagger-jsdocs - Not found
+10 timing stage:rollbackFailedOptional Completed in 1ms
+11 timing stage:runTopLevelLifecycles Completed in 1103ms
+12 verbose stack Error: 404 Not Found - GET https://registry.npmjs.org/swagger-jsdocs - Not found
+12 verbose stack     at /usr/lib/node_modules/npm/node_modules/npm-registry-fetch/check-response.js:117:15
+12 verbose stack     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+13 verbose statusCode 404
+14 verbose pkgid swagger-jsdocs@latest
+15 verbose cwd /root/server
+16 verbose Linux 3.10.0-1160.45.1.el7.x86_64
+17 verbose argv "/usr/bin/node" "/usr/bin/npm" "i" "swagger-jsdocs"
+18 verbose node v12.22.10
+19 verbose npm  v6.14.16
+20 error code E404
+21 error 404 Not Found - GET https://registry.npmjs.org/swagger-jsdocs - Not found
+22 error 404
+23 error 404 'swagger-jsdocs@latest' is not in the npm registry.
+24 error 404 You should bug the author to publish it (or use the name yourself!)
+25 error 404 Note that you can also install from a
+26 error 404 tarball, folder, http url, or git url.
+27 verbose exit [ 1, true ]
