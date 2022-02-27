@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 app.use(express.json());
+const axios = require('axios');
 const port = 3000;
 
 const swaggerJsdoc = require('swagger-jsdoc');
@@ -328,6 +329,19 @@ app.delete('/agents/:agentCode', async (req, res) => {
      finally {
        if (conn) return conn.release();
      }
+});
+
+app.get('/say', (req, res) => {
+    let keyword = req.query.keyword;
+    axios
+  .get('https://us-central1-handy-droplet-342518.cloudfunctions.net/my-function?keyword='+keyword)
+  .then(functionResponse => {
+    console.log(functionResponse.data);
+    res.status(200).send(functionResponse.data);
+  })
+  .catch(error => {
+    console.error(error)
+  });
 });
 
 
